@@ -1,0 +1,16 @@
+/* EJEMPLO POR SELECTOR */
+.selectorClase {
+    color: blue;
+}
+
+/* EJEMPLO POR HERENCIA */
+
+section{
+    color: red;
+}
+
+/* EJEMPLO POR ESPECIFICIDAD */
+
+h1 {
+    color: rgb(255, 0, 0) !important;
+}
